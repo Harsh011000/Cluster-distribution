@@ -70,3 +70,25 @@ Cluster 1407 (movements/actions)
 Cluster 1442 (electronics components)
 
 Cluster 1538 (measurement units)
+
+Cluster 1222 (Optical Waves and Signals)
+
+Cluster 1539 (Light and Radiation Measurement
+
+Cluster 1540 (Spectroscopy and Optical Analysis)
+
+Cluster 1225 (Vocabulary and Word Forms)
+
+Cluster 1541 (Language Learning and Linguistic Concepts)
+
+Cluster 1239 (Prohibition and Enforcement)
+
+Cluster 1542 (Legal Restrictions and Protections)
+
+Cluster 1303 (Text Formatting and Notation)
+
+Cluster 1543 (Orthographic and Phonetic Elements)
+
+Cluster 1321 (Termination and Cancellation)
+
+
