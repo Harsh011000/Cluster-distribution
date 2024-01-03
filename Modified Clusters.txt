@@ -91,4 +91,9 @@ Cluster 1543 (Orthographic and Phonetic Elements)
 
 Cluster 1321 (Termination and Cancellation)
 
+Cluser 1283 (Communication and Interaction)
+
+Cluster 1544 (Modification and Adaptation)
+
+Cluster 1545 (Operation and Function)
 
