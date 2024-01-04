@@ -97,3 +97,25 @@ Cluster 1544 (Modification and Adaptation)
 
 Cluster 1545 (Operation and Function)
 
+Cluster 977 (System Commands)
+
+Clsuter 1547 (Secure Connections)
+
+Cluster 1548 (Command Line Utilities)
+
+Cluster 988 (Parallel Computing)
+
+Cluster 1549 (Parallel Computing)
+
+Cluster 1550 (Cognitive Science)
+
+Cluster 1460 (Fruits and Freshness)
+
+Cluster 1551 (Culinary Delights)
+
+Cluster 1552 (Diverse Ingredients and Tastes)
+
+Cluster 1208 (Compliance Terms)
+
+Cluster 1553 (Qualifications and Standards)
+
