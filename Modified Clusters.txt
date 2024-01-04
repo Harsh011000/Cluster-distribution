@@ -20,7 +20,6 @@ cluster 1520 (Stationary Items)
 
 cluster 1521 (Crafting Items)
 
-
 cluster 1322 (time/duration)
 
 cluster 1500 (payment,billing)
