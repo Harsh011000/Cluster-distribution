@@ -1292,7 +1292,7 @@ Cluster 1289: ['double', 'triple', 'quadruple']
 Cluster 1290: ['caller', 'callers', 'voicemail']
 Cluster 1291: ['underlying']
 Cluster 1292: ['outer', 'outermost']
-Cluster 1293: ['floor', 'beach', 'suite', 'room', 'gym', 'conditioned', 'hotel', 'sleeps', 'visitor', 'bedroom', 'bath', 'guest', 'desk', 'rooms', 'vip', 'housekeeping', 'guests', 'facilities', 'nightly', 'resort', 'spa', 'suites', 'venue', 'amenities', 'amenity', 'occupancy', 'halls', 'studio', 'closet', 'hall', 'chair', 'reception', 'outdoor', 'massage', 'lounge', 'bed', 'lobby', 'residence', 'garden', 'apartment', 'balcony', 'concierge', 'upscale', 'dining', 'laundry', 'furnished', 'garage', 'salon', 'cozy', 'queen', 'complimentary', 'relaxing', 'bathroom', 'beds', 'nights', 'parking', 'kitchens', 'kitchen', 'massages', 'booked', 'palace', 'ensuite', 'loft', 'bunk', 'cafeteria', 'comforts', 'inn', 'cottage', 'elevator', 'catering', 'whirlpool', 'bedside', 'foyer', 'chairs', 'desks', 'cabin', 'hilton', 'rental', 'sleeper', 'cot', 'apartments', 'accomodation', 'bedrooms', 'bedding', 'sofa', 'receptions']
+Cluster 1293: ['hotel', 'resort', 'inn', 'palace', 'venue', 'residence', 'cottage', 'rental', 'cabin', 'hall', 'amenities', 'accomodation']
 Cluster 1294: ['contain']
 Cluster 1295: ['outputs', 'analog', 'outputting', 'multiplexer', 'comparator', 'dvi', 'hdmi']
 Cluster 1296: ['queries']
@@ -1567,7 +1567,10 @@ Cluster 1565: ['celery', 'prune', 'stale', 'prunes', 'salted', 'sprinkle', 'spri
 Cluster 1566: ['mutation', 'mutations', 'mutant', 'mutated', 'mutants', 'genomic', 'genomics', 'genetics', 'eukaryotic']
 Cluster 1567: ['poll', 'polling', 'polled', 'polls', 'vote', 'votes', 'voting', 'primaries', 'undecided', 'voters', 'elections', 'runoff', 'recount', 'electoral', 'elect', 'ballot']
 Cluster 1568: ['conservative', 'independents', 'mps', 'governor', 'elected', 'obama', 'romney', 'barack', 'mccain', 'constituency', 'legislative', 'senate', 'constituencies', 'legislature', 'legislators', 'senators', 'incumbent', 'liberal', 'legislator', 'precinct', 'gop', 'opposition', 'presidential', 'clinton']
-
+Cluster 1569: ['suite', 'bedroom', 'guestroom', 'studio', 'loft', 'apartment', 'ensuite', 'bunk' ]
+Cluster 1570: ['bed', 'queen', 'beds', 'sofa', 'sleeper', 'cot', 'bedding', 'comforts']
+Cluster 1571: ['gym', 'spa', 'lounge', 'garden', 'balcony', 'outdoor', 'dining', 'kitchen', 'parking', 'laundry', 'whirlpool', 'cafeteria', 'garage', 'salon',]
+Cluster 1572: ['housekeeping', 'reception', 'concierge', 'catering', 'massage', 'reception', 'lobby', 'foyer']
 
  
 
