@@ -118,3 +118,18 @@ Cluster 1208 (Compliance Terms)
 
 Cluster 1553 (Qualifications and Standards)
 
+Cluster 1196 (Combine ) removed pure and ensemble
+
+Cluster 1231 ( Stay )
+
+Cluster 1242 (Furniture)
+
+CLuster 1250 (Filestram )
+
+Cluster 1255 (Experiment)
+
+Cluster 1278 (Emotional verbs)
+
+Cluster 1299 (Management)
+
+Cluster 1323 (
