@@ -1,6 +1,6 @@
-cluster 898 (Physics and geometric)   removed 'introducer'
+cluster 898 (Physics and geometric)  
 
-cluster 905 ( social interactions, relationships, and community)   removed 'birds'
+cluster 905 (social interactions, relationships, and community)  
 
 cluster 970 (astronomical and space-related concepts) 
 
@@ -8,11 +8,19 @@ cluster 989 (automotive and mechanical contexts)
 
 cluster 1112 (virtualization and IT infrastructure)
 
-cluster 1498 (geographical locations and places)  removed 'dentists, relocation, complaint, tutors, movers, dam, dept, recreation, dentist'
+cluster 1498 (geographical locations and places) 
 
 cluster 1275 ( recognition, contribution, and evolving principles)  
 
 cluster 1113 (French and Spanish)
+
+Cluster 722 (translation and language)
+
+Cluster 770 (expressing thoughts, opinions, beliefs, and perceptions)
+
+Cluster 953 (physics, mechanics, and engineering, particularly in the context of fluid dynamics, aerodynamics, and mechanical systems)
+
+Cluster 1430 (qualities, characteristics, or attributes)
 
 cluster 1519 (Iron and welds)
 
@@ -117,3 +125,13 @@ Cluster 1552 (Diverse Ingredients and Tastes)
 Cluster 1208 (Compliance Terms)
 
 Cluster 1553 (Qualifications and Standards)
+
+Cluster 1293 (accommodation type)
+
+Cluster 1569 (room type)
+
+Cluster 1570 (furniture)
+
+Cluster 1571 (hotel facilities)
+
+Cluster 1572 (hotel services)
